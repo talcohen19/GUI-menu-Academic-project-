@@ -3,10 +3,6 @@ from assigment2 import Answers
 from assigment2 import tests
 import tkinter as tk
 
-# Tal Cohen : 308275429
-# Shlomi shasho : 308140557
-
-
 def return_Details(index):
     """determime details for the quesion window: title,description,instructions,numberOf_param"""
     string_dic = {
