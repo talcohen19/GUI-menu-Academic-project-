@@ -1,4 +1,4 @@
-# GUI-menu-Academic-project-
+# GUI-menu-Academic-project
 generic menu object. tkinter python
 
 this project used for menu to answer on academic project, but you can easly implemnt on any other menu project you need. 
